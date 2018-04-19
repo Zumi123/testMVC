@@ -1,0 +1,12 @@
+C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=testMVC
+--content-root=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Home\About.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Home\Contact.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Home\Index.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Shared\Error.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Shared\_Layout.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\_ViewImports.cshtml
+--file=C:\Users\Einar\documents\Visual Studio 2017\Projects\testMVC\Views\_ViewStart.cshtml
